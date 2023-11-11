@@ -1,5 +1,5 @@
 # gameCenter
-This is a .Net 7 WPF project that contains 6 applications for windows.
+This is a .Net-7 C# WPF project that contains 6 applications for windows.
 1. User Management System
 2. Currency Convertor
 3. Tic Tac Toe Game
