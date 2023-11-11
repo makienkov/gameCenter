@@ -1,0 +1,39 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net7.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWPF>true</UseWPF>
+    <UserSecretsId>59d41b42-96e9-48f8-a634-3f714449eba9</UserSecretsId>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Remove="Images\usermngmnt.jpg" />
+    <None Remove="square1.jpeg" />
+    <None Remove="square2.png" />
+    <None Remove="usermngmnt.jpg" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Resource Include="Images\usermngmnt.jpg" />
+    <None Remove="Images\currency_convertor.png" />
+    <Resource Include="Images\currency_convertor.png" />
+    <None Remove="Images\to_do.jpg" />
+    <Resource Include="Images\to_do.jpg" />
+    <None Remove="Images\tictactoe.jpg" />
+    <Resource Include="Images\tictactoe.jpg" />
+    <None Remove="Images\carbomb.jpg" />
+    <Resource Include="Images\carbomb.jpg" />
+    <None Remove="Images\calculator.png" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.3" />
+    <Resource Include="Images\calculator.png" />
+    <None Remove="Projects\Car\car.jpg" />
+    <Resource Include="Projects\Car\car.jpg" />
+    <None Remove="Projects\Car\back.jpg" />
+    <Resource Include="Projects\Car\back.jpg" />
+    <None Remove="Projects\Car\bomb.jpg" />
+    <Resource Include="Projects\Car\bomb.jpg" />
+  </ItemGroup>
+
+</Project>

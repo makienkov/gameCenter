@@ -1,0 +1,42 @@
+[
+  {
+    "Id": 1,
+    "Name": "Bob",
+    "Email": "bob@email.com",
+    "Status": "Logged_Off",
+    "Created": "2023-10-22T09:52:54.2307733+03:00",
+    "LastLogIn": null
+  },
+  {
+    "Id": 2,
+    "Name": "Gil",
+    "Email": "gil@email.com",
+    "Status": "Logged_Off",
+    "Created": "2023-10-22T09:52:54.2307739+03:00",
+    "LastLogIn": null
+  },
+  {
+    "Id": 3,
+    "Name": "Shosh",
+    "Email": "shosh@email.com",
+    "Status": "Logged_Off",
+    "Created": "2023-10-22T09:52:54.2307742+03:00",
+    "LastLogIn": null
+  },
+  {
+    "Id": 4,
+    "Name": "qqsedf",
+    "Email": "qq@w.net",
+    "Status": "Logged_Off",
+    "Created": "2023-11-10T11:37:35.0097388+02:00",
+    "LastLogIn": "2023-11-10T11:37:52.9045078+02:00"
+  },
+  {
+    "Id": 5,
+    "Name": "qqsedf",
+    "Email": "qq@wwwe.net",
+    "Status": "Logged_Off",
+    "Created": "2023-11-10T11:52:19.4559772+02:00",
+    "LastLogIn": null
+  }
+]
